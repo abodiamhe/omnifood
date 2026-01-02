@@ -76,7 +76,7 @@ omnifood/
 Simply open the project in a browser:
 
 ```bash
-git clone https://github.com/your-username/omnifood.git
+git clone https://github.com/abodiamhe/omnifood.git
 cd omnifood
 open index.html
 ```
